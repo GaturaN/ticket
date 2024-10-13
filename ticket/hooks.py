@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "ticket"
 app_title = "Ticket"
 app_publisher = "Gatura Njenga"
-app_description = "In house ticket system for bulkbox"
+app_description = "In house Ticket system for bulkbox"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "gaturanjenga@gmail.com"
