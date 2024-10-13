@@ -9,7 +9,7 @@ from ticket import __version__ as version
 setup(
 	name="ticket",
 	version=version,
-	description="In house Ticket system for bulkbox",
+	description="Inhouse ticket system for bulkbox",
 	author="Gatura Njenga",
 	author_email="gaturanjenga@gmail.com",
 	packages=find_packages(),

@@ -1,6 +1,6 @@
 ## Ticket
 
-In house Ticket system for bulkbox
+Inhouse ticket system for bulkbox
 
 #### License
 
