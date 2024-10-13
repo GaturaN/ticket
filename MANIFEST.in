@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ticket *.css
+recursive-include ticket *.csv
+recursive-include ticket *.html
+recursive-include ticket *.ico
+recursive-include ticket *.js
+recursive-include ticket *.json
+recursive-include ticket *.md
+recursive-include ticket *.png
+recursive-include ticket *.py
+recursive-include ticket *.svg
+recursive-include ticket *.txt
+recursive-exclude ticket *.pyc
